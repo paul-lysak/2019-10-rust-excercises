@@ -1,0 +1,11 @@
+name: err_clap
+version: "1.0"
+author: Paul Lysak
+about: Parsling the CLI
+args:
+  - items:
+      short: i
+      long: items
+      value_name: ITEMS
+      help: Sets items count
+      takes_value: true

@@ -1,0 +1,3324 @@
+{
+  "lastUpdated" : "2018-05-18T09:03:15-0400",
+  "routeDetails" : [ {
+    "route" : "Q33",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q33",
+    "inService" : true
+  }, {
+    "route" : "M66",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M66",
+    "inService" : true
+  }, {
+    "route" : "Q35",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q35",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q35 buses rerouted from the Marine Parkway-Gil Hodges Memorial Bridge</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>11:30 PM to 5 AM, Mon to Sat, May 7 - 19<br><br>Due to bridge maintenance, buses may experience delays.<br><br><b><a>Show Reroute Details</a></b><br><div><b>Eastbound<br></b>Via Flatbush Av<br>Left on Flatlands Av<br>Left on Pennsylvania Av<br>Right on Linden Blvd<br>Right on South Conduit<br>Right on Cross Bay Blvd<br>Right on Beach Channel Dr<br>Left on Beach 117 St<br>Left on Newport Av then regular route<br><br><b>Westbound<br></b>Via Beach 169 St<br>Via Beach Channel Dr<br>Right onto ramp for Crossbay Bridge<br>Left on 149 Av<br>Right on North Conduit Av<br>Left on Linden Blvd<br>Left on Pennsylvania Av<br>Right on Flatlands Av<br>Right on Flatbush Av then regular route</div><br><b>          </b><a href=\"http://bustime.mta.info/#Q35\" target=\"_blank\"></a><br></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-07T00:00:00-0400",
+      "startDate" : "2018-05-07T00:00:00-0400",
+      "endDate" : "2018-05-19T23:59:00-0400"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q35 buses rerouted from the Marine Parkway-Gil Hodges Memorial Bridge</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>11:30 PM to 5 AM, Mon to Sat, May 7 - 19<br><br>Due to bridge maintenance, buses may experience delays.<br><br><b><a>Show Reroute Details</a></b><br><div><b>Eastbound<br></b>Via Flatbush Av<br>Left on Flatlands Av<br>Left on Pennsylvania Av<br>Right on Linden Blvd<br>Right on South Conduit<br>Right on Cross Bay Blvd<br>Right on Beach Channel Dr<br>Left on Beach 117 St<br>Left on Newport Av then regular route<br><br><b>Westbound<br></b>Via Beach 169 St<br>Via Beach Channel Dr<br>Right onto ramp for Crossbay Bridge<br>Left on 149 Av<br>Right on North Conduit Av<br>Left on Linden Blvd<br>Left on Pennsylvania Av<br>Right on Flatlands Av<br>Right on Flatbush Av then regular route</div><br><b>          </b><a href=\"http://bustime.mta.info/#Q35\" target=\"_blank\"></a><br></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-05-07T00:00:00-0400",
+      "startDate" : "2018-05-07T00:00:00-0400",
+      "endDate" : "2018-05-19T23:59:00-0400"
+    } ]
+  }, {
+    "route" : "Q34",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q34",
+    "inService" : true
+  }, {
+    "route" : "QM11",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM11",
+    "inService" : true
+  }, {
+    "route" : "Q52-SBS",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q52+",
+    "inService" : true
+  }, {
+    "route" : "QM12",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM12",
+    "inService" : true
+  }, {
+    "route" : "QM15",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM15",
+    "inService" : true
+  }, {
+    "route" : "QM16",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM16",
+    "inService" : true
+  }, {
+    "route" : "QM17",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM17",
+    "inService" : true
+  }, {
+    "route" : "QM18",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM18",
+    "inService" : true
+  }, {
+    "route" : "QM20",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM20",
+    "inService" : true
+  }, {
+    "route" : "QM21",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM21",
+    "inService" : true
+  }, {
+    "route" : "Q37",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q37",
+    "inService" : true
+  }, {
+    "route" : "Q39",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q39",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Q38",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q38",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S79-SBS",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S79+",
+    "inService" : true
+  }, {
+    "route" : "B46-SBS",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B46+",
+    "inService" : true
+  }, {
+    "route" : "M55",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M55",
+    "inService" : true
+  }, {
+    "route" : "Q22",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q22",
+    "inService" : true
+  }, {
+    "route" : "Q21",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q21",
+    "inService" : true
+  }, {
+    "route" : "M57",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M57",
+    "inService" : true
+  }, {
+    "route" : "Q23",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q23",
+    "inService" : true
+  }, {
+    "route" : "Q53-SBS",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q53+",
+    "inService" : true
+  }, {
+    "route" : "QM24",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM24",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>QM24, QM25 and QM34 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, Mon to Fri, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-10-06T00:00:00-0400",
+      "startDate" : "2017-10-06T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>QM24, QM25 and QM34 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, Mon to Fri, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-10-06T00:00:00-0400",
+      "startDate" : "2017-10-06T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "QM25",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM25",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>QM24, QM25 and QM34 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, Mon to Fri, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-10-06T00:00:00-0400",
+      "startDate" : "2017-10-06T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>QM24, QM25 and QM34 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, Mon to Fri, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-10-06T00:00:00-0400",
+      "startDate" : "2017-10-06T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "M34-SBS",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M34+",
+    "inService" : true
+  }, {
+    "route" : "QM31",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM31",
+    "inService" : true
+  }, {
+    "route" : "QM32",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM32",
+    "inService" : true
+  }, {
+    "route" : "Q25",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q25",
+    "inService" : true
+  }, {
+    "route" : "Q29",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q29",
+    "inService" : true
+  }, {
+    "route" : "M50",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M50",
+    "inService" : true
+  }, {
+    "route" : "Q11",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q11",
+    "inService" : true
+  }, {
+    "route" : "Q10",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q10",
+    "inService" : true
+  }, {
+    "route" : "M103",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M103",
+    "inService" : true
+  }, {
+    "route" : "M104",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M104",
+    "inService" : true
+  }, {
+    "route" : "M106",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M106",
+    "inService" : true
+  }, {
+    "route" : "M100",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M100",
+    "inService" : true
+  }, {
+    "route" : "M101",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M101",
+    "inService" : true
+  }, {
+    "route" : "M102",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M102",
+    "inService" : true
+  }, {
+    "route" : "M23-SBS",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M23+",
+    "inService" : true
+  }, {
+    "route" : "Bx23",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BX23",
+    "inService" : true
+  }, {
+    "route" : "M42",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M42",
+    "inService" : true
+  }, {
+    "route" : "Q19",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q19",
+    "inService" : true
+  }, {
+    "route" : "Q18",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q18",
+    "inService" : true
+  }, {
+    "route" : "M35",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M35",
+    "inService" : true
+  }, {
+    "route" : "Q15A",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q15A",
+    "inService" : true
+  }, {
+    "route" : "M116",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M116",
+    "inService" : true
+  }, {
+    "route" : "X22A",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X22A",
+    "inService" : true
+  }, {
+    "route" : "QM10",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM10",
+    "inService" : true
+  }, {
+    "route" : "X10B",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X10B",
+    "inService" : true
+  }, {
+    "route" : "M31",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M31",
+    "inService" : true
+  }, {
+    "route" : "Q6",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q06",
+    "inService" : true
+  }, {
+    "route" : "Q8",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q08",
+    "inService" : true
+  }, {
+    "route" : "Q7",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q07",
+    "inService" : true
+  }, {
+    "route" : "Q9",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q09",
+    "inService" : true
+  }, {
+    "route" : "Q72",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q72",
+    "inService" : true
+  }, {
+    "route" : "Q24",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q24",
+    "inService" : true
+  }, {
+    "route" : "S66",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S66",
+    "inService" : true
+  }, {
+    "route" : "S61",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S61",
+    "inService" : true
+  }, {
+    "route" : "S62",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S62",
+    "inService" : true
+  }, {
+    "route" : "Q26",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q26",
+    "inService" : true
+  }, {
+    "route" : "Q27",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q27",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Q28",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q28",
+    "inService" : true
+  }, {
+    "route" : "B42",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B42",
+    "inService" : true
+  }, {
+    "route" : "B41",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B41",
+    "inService" : true
+  }, {
+    "route" : "B46",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B46",
+    "inService" : true
+  }, {
+    "route" : "B45",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B45",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>B45</b> - <b>Eastbound buses bypass the stops on St Johns Pl at Utica Av </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, please use nearby stops<b> on St Johns Pl </b>at Rochester Av or Schenectady Av.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-02T00:00:00-0400",
+      "startDate" : "2018-05-02T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "B44",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B44",
+    "inService" : true
+  }, {
+    "route" : "B43",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B43",
+    "inService" : true
+  }, {
+    "route" : "B49",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B49",
+    "inService" : true
+  }, {
+    "route" : "B48",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B48",
+    "inService" : true
+  }, {
+    "route" : "B47",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B47",
+    "inService" : true
+  }, {
+    "route" : "M34A-SBS",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M34A+",
+    "inService" : true
+  }, {
+    "route" : "S53",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S53",
+    "inService" : true
+  }, {
+    "route" : "Q12",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q12",
+    "inService" : true
+  }, {
+    "route" : "S54",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S54",
+    "inService" : true
+  }, {
+    "route" : "Q64",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q64",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q64, QM4 and QM44 buses may experience delays<br>due to construction on the Jewel Av exit of the Van Wyck Expy</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-09-21T00:00:00-0400",
+      "startDate" : "2017-09-21T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q64, QM4 and QM44 buses may experience delays<br>due to construction on the Jewel Av exit of the Van Wyck Expy</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-09-21T00:00:00-0400",
+      "startDate" : "2017-09-21T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S55",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S55",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>S55 buses detoured from Annadale Rd between Laredo Av and Katan Av </b>- <b>No stops missed</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>7 AM to 6 PM, Mon to Fri, until further notice<br><br>Due to construction, buses may experience delays.<br><b></b>          <a href=\"http://bustime.mta.info/#S55\" target=\"_blank\"></a><br></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-02T00:00:00-0400",
+      "startDate" : "2018-05-02T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>S55 buses detoured from Annadale Rd between Laredo Av and Katan Av </b>- <b>No stops missed</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>7 AM to 6 PM, Mon to Fri, until further notice<br><br>Due to construction, buses may experience delays.<br><b></b>          <a href=\"http://bustime.mta.info/#S55\" target=\"_blank\"></a><br></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-05-02T00:00:00-0400",
+      "startDate" : "2018-05-02T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Q13",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q13",
+    "inService" : true
+  }, {
+    "route" : "S56",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S56",
+    "inService" : true
+  }, {
+    "route" : "Q66",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q66",
+    "inService" : true
+  }, {
+    "route" : "Q65",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q65",
+    "inService" : true
+  }, {
+    "route" : "S51",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S51",
+    "inService" : true
+  }, {
+    "route" : "Q67",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q67",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S52",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S52",
+    "inService" : true
+  }, {
+    "route" : "Q15",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q15",
+    "inService" : true
+  }, {
+    "route" : "S57",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S57",
+    "inService" : true
+  }, {
+    "route" : "Q16",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q16",
+    "inService" : true
+  }, {
+    "route" : "Q60",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q60",
+    "inService" : true
+  }, {
+    "route" : "Q17",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q17",
+    "inService" : true
+  }, {
+    "route" : "S59",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S59",
+    "inService" : true
+  }, {
+    "route" : "Bx15",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX15",
+    "inService" : true
+  }, {
+    "route" : "B31",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B31",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Delays",
+      "statusDescription" : "<strong>B35, B35-LTD, B67 </strong>and<strong> B69</strong> buses are running with delays in both directions because of construction on Church Av and McDonald Av.",
+      "priority" : 2,
+      "direction" : "0",
+      "creationDate" : "2018-05-18T08:03:11-0400",
+      "startDate" : "2018-05-18T07:25:00-0400",
+      "endDate" : null
+    } ]
+  }, {
+    "route" : "Bx13",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX13",
+    "inService" : true
+  }, {
+    "route" : "Bx12",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX12",
+    "inService" : true
+  }, {
+    "route" : "Bx11",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX11",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "B35",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B35",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Delays",
+      "statusDescription" : "<strong>B35, B35-LTD, B67 </strong>and<strong> B69</strong> buses are running with delays in both directions because of construction on Church Av and McDonald Av.",
+      "priority" : 2,
+      "direction" : "0",
+      "creationDate" : "2018-05-18T08:03:11-0400",
+      "startDate" : "2018-05-18T07:25:00-0400",
+      "endDate" : null
+    }, {
+      "statusSummary" : "Delays",
+      "statusDescription" : "<strong>B35, B35-LTD, B67 </strong>and<strong> B69</strong> buses are running with delays in both directions because of construction on Church Av and McDonald Av.",
+      "priority" : 2,
+      "direction" : "1",
+      "creationDate" : "2018-05-18T08:03:11-0400",
+      "startDate" : "2018-05-18T07:25:00-0400",
+      "endDate" : null
+    } ]
+  }, {
+    "route" : "Bx10",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX10",
+    "inService" : true
+  }, {
+    "route" : "B32",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B32",
+    "inService" : true
+  }, {
+    "route" : "Q1",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q1",
+    "inService" : true
+  }, {
+    "route" : "B39",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B39",
+    "inService" : true
+  }, {
+    "route" : "Q69",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q69",
+    "inService" : true
+  }, {
+    "route" : "M96",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M96",
+    "inService" : true
+  }, {
+    "route" : "B38",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B38",
+    "inService" : true
+  }, {
+    "route" : "Q3",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q3",
+    "inService" : true
+  }, {
+    "route" : "B37",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B37",
+    "inService" : true
+  }, {
+    "route" : "Q2",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q2",
+    "inService" : true
+  }, {
+    "route" : "M98",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M98",
+    "inService" : true
+  }, {
+    "route" : "B36",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B36",
+    "inService" : true
+  }, {
+    "route" : "Bx19",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX19",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx19</b> - <b>Southbound stop on 145 St at St Nicholas Av temporarily closed</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on 145 St </b>at <a href=\"http://bustime.mta.info/#403691%20Bx19\" target=\"_blank\">Frederick Douglass Blvd</a> or <a href=\"http://bustime.mta.info/#403694%20Bx19\" target=\"_blank\">Convent Av</a>.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-04-20T00:00:00-0400",
+      "startDate" : "2018-04-20T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Bx18",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX18",
+    "inService" : true
+  }, {
+    "route" : "Bx17",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX17",
+    "inService" : true
+  }, {
+    "route" : "Bx16",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX16",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx16, Bx34 and BxM4 </b>- <b>East/Northbound buses rerouted from Bainbridge Av at Gun Hill Rd to Jerome Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, buses run via <b>Jerome Av </b>making corresponding stops.<br><br>Reroute Details<br>Via Bainbridge Av<br>Left on Gun Hill Rd<br>Right on Jerome Av then regular route<br><br><b>Reminder</b>: <a href=\"httphttp://web.mta.info/nyct/bus/schedule/bronx/bx016cur.pdf\" target=\"_blank\">Bx16</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/bronx/bx034cur.pdf\" target=\"_blank\">Bx34</a> and <a href=\"http://web.mta.info/busco/schedules/bxm4cur.pdf\" target=\"_blank\">BxM4</a> buses do not operate all times.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-01T00:00:00-0400",
+      "startDate" : "2018-05-01T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "M5",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M5",
+    "inService" : true
+  }, {
+    "route" : "S42",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S42",
+    "inService" : true
+  }, {
+    "route" : "M4",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M4",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>M1/M1 </b>LTD<b>, M2/M2 </b>LTD<b>, M3 and M4/M4 </b>LTD - <b>Southbound buses bypass the stop on 5 Av at 84 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on 5 Av </b>at <a href=\"http://bustime.mta.info/#400118\" target=\"_blank\">87 St</a> or <a href=\"http://bustime.mta.info/#803162\" target=\"_blank\">81 St</a>.<br><br><b>Reminder</b>: <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m001cur.pdf\" target=\"_blank\">M1/M1 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf\" target=\"_blank\">M2/M2 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf\" target=\"_blank\">M3</a> and <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m004cur.pdf\" target=\"_blank\">M4/M4 LTD</a> buses do not operate all times.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-04-17T00:00:00-0400",
+      "startDate" : "2018-04-17T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Q50",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q50",
+    "inService" : true
+  }, {
+    "route" : "M14A",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M14A",
+    "inService" : true
+  }, {
+    "route" : "M7",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M7",
+    "inService" : true
+  }, {
+    "route" : "S44",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S44",
+    "inService" : true
+  }, {
+    "route" : "M1",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M1",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>M1/M1 </b>LTD<b>, M2/M2 </b>LTD<b>, M3 and M4/M4 </b>LTD - <b>Southbound buses bypass the stop on 5 Av at 84 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on 5 Av </b>at <a href=\"http://bustime.mta.info/#400118\" target=\"_blank\">87 St</a> or <a href=\"http://bustime.mta.info/#803162\" target=\"_blank\">81 St</a>.<br><br><b>Reminder</b>: <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m001cur.pdf\" target=\"_blank\">M1/M1 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf\" target=\"_blank\">M2/M2 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf\" target=\"_blank\">M3</a> and <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m004cur.pdf\" target=\"_blank\">M4/M4 LTD</a> buses do not operate all times.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-04-17T00:00:00-0400",
+      "startDate" : "2018-04-17T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "M3",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M3",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>M1/M1 </b>LTD<b>, M2/M2 </b>LTD<b>, M3 and M4/M4 </b>LTD - <b>Southbound buses bypass the stop on 5 Av at 84 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on 5 Av </b>at <a href=\"http://bustime.mta.info/#400118\" target=\"_blank\">87 St</a> or <a href=\"http://bustime.mta.info/#803162\" target=\"_blank\">81 St</a>.<br><br><b>Reminder</b>: <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m001cur.pdf\" target=\"_blank\">M1/M1 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf\" target=\"_blank\">M2/M2 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf\" target=\"_blank\">M3</a> and <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m004cur.pdf\" target=\"_blank\">M4/M4 LTD</a> buses do not operate all times.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-04-17T00:00:00-0400",
+      "startDate" : "2018-04-17T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S40",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S40",
+    "inService" : true
+  }, {
+    "route" : "M2",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M2",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>M1/M1 </b>LTD<b>, M2/M2 </b>LTD<b>, M3 and M4/M4 </b>LTD - <b>Southbound buses bypass the stop on 5 Av at 84 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on 5 Av </b>at <a href=\"http://bustime.mta.info/#400118\" target=\"_blank\">87 St</a> or <a href=\"http://bustime.mta.info/#803162\" target=\"_blank\">81 St</a>.<br><br><b>Reminder</b>: <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m001cur.pdf\" target=\"_blank\">M1/M1 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf\" target=\"_blank\">M2/M2 LTD</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf\" target=\"_blank\">M3</a> and <a href=\"http://web.mta.info/nyct/bus/schedule/manh/m004cur.pdf\" target=\"_blank\">M4/M4 LTD</a> buses do not operate all times.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-04-17T00:00:00-0400",
+      "startDate" : "2018-04-17T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S46",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S46",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>S46 and S96 </b>LTD - <b>Eastbound buses rerouted from De Ruyter Pl at Maple Pkwy to Van Pelt Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>7 AM to 7 PM, Mon to Fri, until further notice<br><br>Due to construction, buses make corresponding stops along the detoured route.<br><br><b><a>Show Reroute Details</a></b><br><div>Via Maple Pkwy<br>Left on Netherland Av<br>Left on Van Pelt Av<br>Right on Walker St then regular route</div><br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-04-18T00:00:00-0400",
+      "startDate" : "2018-04-18T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "M9",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M9",
+    "inService" : true
+  }, {
+    "route" : "Q70-SBS",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q70+",
+    "inService" : true
+  }, {
+    "route" : "M8",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M8",
+    "inService" : true
+  }, {
+    "route" : "S48",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S48",
+    "inService" : true
+  }, {
+    "route" : "Bx26",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX26",
+    "inService" : true
+  }, {
+    "route" : "B20",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B20",
+    "inService" : true
+  }, {
+    "route" : "Bx24",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX24",
+    "inService" : true
+  }, {
+    "route" : "B24",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B24",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>B24</b> - <b>Northbound buses may experience delays due to construction on Greenpoint Av at West St  </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>         <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2016-11-15T00:00:00-0500",
+      "startDate" : "2016-11-15T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Bx22",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX22",
+    "inService" : true
+  }, {
+    "route" : "Bx21",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX21",
+    "inService" : true
+  }, {
+    "route" : "Bx20",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX20",
+    "inService" : true
+  }, {
+    "route" : "B26",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B26",
+    "inService" : true
+  }, {
+    "route" : "M15-SBS",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M15+",
+    "inService" : true
+  }, {
+    "route" : "B25",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B25",
+    "inService" : true
+  }, {
+    "route" : "Bx29",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX29",
+    "inService" : true
+  }, {
+    "route" : "M14D",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M14D",
+    "inService" : true
+  }, {
+    "route" : "Bx28",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX28",
+    "inService" : true
+  }, {
+    "route" : "Bx27",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX27",
+    "inService" : true
+  }, {
+    "route" : "Q40",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q40",
+    "inService" : true
+  }, {
+    "route" : "Q41",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q41",
+    "inService" : true
+  }, {
+    "route" : "Bx36",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX36",
+    "inService" : true
+  }, {
+    "route" : "Bx35",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX35",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Bx34",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX34",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx16, Bx34 and BxM4 </b>- <b>East/Northbound buses rerouted from Bainbridge Av at Gun Hill Rd to Jerome Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, buses run via <b>Jerome Av </b>making corresponding stops.<br><br>Reroute Details<br>Via Bainbridge Av<br>Left on Gun Hill Rd<br>Right on Jerome Av then regular route<br><br><b>Reminder</b>: <a href=\"httphttp://web.mta.info/nyct/bus/schedule/bronx/bx016cur.pdf\" target=\"_blank\">Bx16</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/bronx/bx034cur.pdf\" target=\"_blank\">Bx34</a> and <a href=\"http://web.mta.info/busco/schedules/bxm4cur.pdf\" target=\"_blank\">BxM4</a> buses do not operate all times.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-01T00:00:00-0400",
+      "startDate" : "2018-05-01T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Bx33",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX33",
+    "inService" : true
+  }, {
+    "route" : "B13",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B13",
+    "inService" : true
+  }, {
+    "route" : "Bx32",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX32",
+    "inService" : true
+  }, {
+    "route" : "B12",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B12",
+    "inService" : true
+  }, {
+    "route" : "Bx31",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX31",
+    "inService" : true
+  }, {
+    "route" : "B11",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B11",
+    "inService" : true
+  }, {
+    "route" : "Bx30",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX30",
+    "inService" : true
+  }, {
+    "route" : "B17",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B17",
+    "inService" : true
+  }, {
+    "route" : "Q47",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q47",
+    "inService" : true
+  }, {
+    "route" : "B16",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B16",
+    "inService" : true
+  }, {
+    "route" : "B15",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B15",
+    "inService" : true
+  }, {
+    "route" : "Q49",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q49",
+    "inService" : true
+  }, {
+    "route" : "B14",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B14",
+    "inService" : true
+  }, {
+    "route" : "Bx39",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX39",
+    "inService" : true
+  }, {
+    "route" : "Bx38",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX38",
+    "inService" : true
+  }, {
+    "route" : "M72",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M72",
+    "inService" : true
+  }, {
+    "route" : "Bx12-SBS",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX12+",
+    "inService" : true
+  }, {
+    "route" : "Bx40",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX40",
+    "inService" : true
+  }, {
+    "route" : "M60-SBS",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M60+",
+    "inService" : true
+  }, {
+    "route" : "X42",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X42",
+    "inService" : true
+  }, {
+    "route" : "B84",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B84",
+    "inService" : true
+  }, {
+    "route" : "Bx46",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX46",
+    "inService" : true
+  }, {
+    "route" : "B83",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B83",
+    "inService" : true
+  }, {
+    "route" : "X38",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X38",
+    "inService" : true
+  }, {
+    "route" : "Bx42",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX42",
+    "inService" : true
+  }, {
+    "route" : "Bx41",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX41",
+    "inService" : true
+  }, {
+    "route" : "BxM2",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM2",
+    "inService" : true
+  }, {
+    "route" : "BxM1",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM1",
+    "inService" : true
+  }, {
+    "route" : "Q55",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q55",
+    "inService" : true
+  }, {
+    "route" : "BxM4",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM4",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx16, Bx34 and BxM4 </b>- <b>East/Northbound buses rerouted from Bainbridge Av at Gun Hill Rd to Jerome Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><br>Due to construction, buses run via <b>Jerome Av </b>making corresponding stops.<br><br>Reroute Details<br>Via Bainbridge Av<br>Left on Gun Hill Rd<br>Right on Jerome Av then regular route<br><br><b>Reminder</b>: <a href=\"httphttp://web.mta.info/nyct/bus/schedule/bronx/bx016cur.pdf\" target=\"_blank\">Bx16</a>, <a href=\"http://web.mta.info/nyct/bus/schedule/bronx/bx034cur.pdf\" target=\"_blank\">Bx34</a> and <a href=\"http://web.mta.info/busco/schedules/bxm4cur.pdf\" target=\"_blank\">BxM4</a> buses do not operate all times.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-01T00:00:00-0400",
+      "startDate" : "2018-05-01T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S98",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S98",
+    "inService" : true
+  }, {
+    "route" : "Q56",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q56",
+    "inService" : true
+  }, {
+    "route" : "BxM3",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM3",
+    "inService" : true
+  }, {
+    "route" : "BxM6",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM6",
+    "inService" : true
+  }, {
+    "route" : "Q58",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q58",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S93",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S93",
+    "inService" : true
+  }, {
+    "route" : "BxM8",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM8",
+    "inService" : true
+  }, {
+    "route" : "S94",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S94",
+    "inService" : true
+  }, {
+    "route" : "BxM7",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM7",
+    "inService" : true
+  }, {
+    "route" : "Bx4A",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX4A",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Q54",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q54",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-02-03T00:00:00-0500",
+      "startDate" : "2017-02-03T00:00:00-0500",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "S96",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S96",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>S46 and S96 </b>LTD - <b>Eastbound buses rerouted from De Ruyter Pl at Maple Pkwy to Van Pelt Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>7 AM to 7 PM, Mon to Fri, until further notice<br><br>Due to construction, buses make corresponding stops along the detoured route.<br><br><b><a>Show Reroute Details</a></b><br><div>Via Maple Pkwy<br>Left on Netherland Av<br>Left on Van Pelt Av<br>Right on Walker St then regular route</div><br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-04-18T00:00:00-0400",
+      "startDate" : "2018-04-18T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "BxM9",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM9",
+    "inService" : true
+  }, {
+    "route" : "BM2",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BM2",
+    "inService" : true
+  }, {
+    "route" : "X37",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X37",
+    "inService" : true
+  }, {
+    "route" : "BM1",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BM1",
+    "inService" : true
+  }, {
+    "route" : "X30",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X30",
+    "inService" : true
+  }, {
+    "route" : "B82",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B82",
+    "inService" : true
+  }, {
+    "route" : "Q59",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q59",
+    "inService" : true
+  }, {
+    "route" : "BM4",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BM4",
+    "inService" : true
+  }, {
+    "route" : "X31",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X31",
+    "inService" : true
+  }, {
+    "route" : "BM3",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BM3",
+    "inService" : true
+  }, {
+    "route" : "BM5",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BM5",
+    "inService" : true
+  }, {
+    "route" : "Bx6",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX6",
+    "inService" : true
+  }, {
+    "route" : "Bx5",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX5",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "B74",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B74",
+    "inService" : true
+  }, {
+    "route" : "M86-SBS",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M86+",
+    "inService" : true
+  }, {
+    "route" : "Bx4",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX4",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br>due to construction on Westchester Av between Southern Blvd and Hoe Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-08-03T00:00:00-0400",
+      "startDate" : "2017-08-03T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "B100",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_B100",
+    "inService" : true
+  }, {
+    "route" : "Bx3",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX3",
+    "inService" : true
+  }, {
+    "route" : "X27",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X27",
+    "inService" : true
+  }, {
+    "route" : "X28",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X28",
+    "inService" : true
+  }, {
+    "route" : "Bx9",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX9",
+    "inService" : true
+  }, {
+    "route" : "Bx8",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX8",
+    "inService" : true
+  }, {
+    "route" : "Bx7",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX7",
+    "inService" : true
+  }, {
+    "route" : "B103",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_B103",
+    "inService" : true
+  }, {
+    "route" : "S90",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S90",
+    "inService" : true
+  }, {
+    "route" : "S91",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S91",
+    "inService" : true
+  }, {
+    "route" : "S92",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S92",
+    "inService" : true
+  }, {
+    "route" : "S86",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S86",
+    "inService" : true
+  }, {
+    "route" : "Q104",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q104",
+    "inService" : true
+  }, {
+    "route" : "Q46",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q46",
+    "inService" : true
+  }, {
+    "route" : "S89",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S89",
+    "inService" : true
+  }, {
+    "route" : "Q5",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q5",
+    "inService" : true
+  }, {
+    "route" : "Q4",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q4",
+    "inService" : true
+  }, {
+    "route" : "S84",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S84",
+    "inService" : true
+  }, {
+    "route" : "Q42",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q42",
+    "inService" : true
+  }, {
+    "route" : "Q43",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q43",
+    "inService" : true
+  }, {
+    "route" : "Bx2",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX2",
+    "inService" : true
+  }, {
+    "route" : "Q48",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q48",
+    "inService" : true
+  }, {
+    "route" : "Q100",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q100",
+    "inService" : true
+  }, {
+    "route" : "B70",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B70",
+    "inService" : true
+  }, {
+    "route" : "Bx1",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX1",
+    "inService" : true
+  }, {
+    "route" : "Q101",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q101",
+    "inService" : true
+  }, {
+    "route" : "X21",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X21",
+    "inService" : true
+  }, {
+    "route" : "Q102",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q102",
+    "inService" : true
+  }, {
+    "route" : "X22",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X22",
+    "inService" : true
+  }, {
+    "route" : "Q103",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q103",
+    "inService" : true
+  }, {
+    "route" : "Bx6-SBS",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX6+",
+    "inService" : true
+  }, {
+    "route" : "B64",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B64",
+    "inService" : true
+  }, {
+    "route" : "B63",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B63",
+    "inService" : true
+  }, {
+    "route" : "X17A",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X17A",
+    "inService" : true
+  }, {
+    "route" : "B62",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B62",
+    "inService" : true
+  }, {
+    "route" : "B61",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B61",
+    "inService" : true
+  }, {
+    "route" : "B68",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B68",
+    "inService" : true
+  }, {
+    "route" : "X17",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X17",
+    "inService" : true
+  }, {
+    "route" : "B67",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B67",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Delays",
+      "statusDescription" : "<strong>B35, B35-LTD, B67 </strong>and<strong> B69</strong> buses are running with delays in both directions because of construction on Church Av and McDonald Av.",
+      "priority" : 2,
+      "direction" : "0",
+      "creationDate" : "2018-05-18T08:03:11-0400",
+      "startDate" : "2018-05-18T07:25:00-0400",
+      "endDate" : null
+    }, {
+      "statusSummary" : "Delays",
+      "statusDescription" : "<strong>B35, B35-LTD, B67 </strong>and<strong> B69</strong> buses are running with delays in both directions because of construction on Church Av and McDonald Av.",
+      "priority" : 2,
+      "direction" : "1",
+      "creationDate" : "2018-05-18T08:03:11-0400",
+      "startDate" : "2018-05-18T07:25:00-0400",
+      "endDate" : null
+    } ]
+  }, {
+    "route" : "B65",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B65",
+    "inService" : true
+  }, {
+    "route" : "X19",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X19",
+    "inService" : true
+  }, {
+    "route" : "X17J",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X17J",
+    "inService" : true
+  }, {
+    "route" : "S81",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S81",
+    "inService" : true
+  }, {
+    "route" : "B69",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B69",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Delays",
+      "statusDescription" : "<strong>B35, B35-LTD, B67 </strong>and<strong> B69</strong> buses are running with delays in both directions because of construction on Church Av and McDonald Av.",
+      "priority" : 2,
+      "direction" : "0",
+      "creationDate" : "2018-05-18T08:03:11-0400",
+      "startDate" : "2018-05-18T07:25:00-0400",
+      "endDate" : null
+    }, {
+      "statusSummary" : "Delays",
+      "statusDescription" : "<strong>B35, B35-LTD, B67 </strong>and<strong> B69</strong> buses are running with delays in both directions because of construction on Church Av and McDonald Av.",
+      "priority" : 2,
+      "direction" : "1",
+      "creationDate" : "2018-05-18T08:03:11-0400",
+      "startDate" : "2018-05-18T07:25:00-0400",
+      "endDate" : null
+    } ]
+  }, {
+    "route" : "S76",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S76",
+    "inService" : true
+  }, {
+    "route" : "Q36",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q36",
+    "inService" : true
+  }, {
+    "route" : "S78",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S78",
+    "inService" : true
+  }, {
+    "route" : "BxM18",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM18",
+    "inService" : true
+  }, {
+    "route" : "Q30",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q30",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Q31",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q31",
+    "inService" : true
+  }, {
+    "route" : "Q32",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q32",
+    "inService" : true
+  }, {
+    "route" : "S74",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_S74",
+    "inService" : true
+  }, {
+    "route" : "X12",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X12",
+    "inService" : true
+  }, {
+    "route" : "B2",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B2",
+    "inService" : true
+  }, {
+    "route" : "B1",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B1",
+    "inService" : true
+  }, {
+    "route" : "X14",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X14",
+    "inService" : true
+  }, {
+    "route" : "BxM11",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM11",
+    "inService" : true
+  }, {
+    "route" : "B4",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B4",
+    "inService" : true
+  }, {
+    "route" : "X15",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X15",
+    "inService" : true
+  }, {
+    "route" : "BxM10",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_BXM10",
+    "inService" : true
+  }, {
+    "route" : "Q110",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q110",
+    "inService" : true
+  }, {
+    "route" : "B3",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B3",
+    "inService" : true
+  }, {
+    "route" : "B60",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B60",
+    "inService" : true
+  }, {
+    "route" : "Q111",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q111",
+    "inService" : true
+  }, {
+    "route" : "Q112",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q112",
+    "inService" : true
+  }, {
+    "route" : "X10",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X10",
+    "inService" : true
+  }, {
+    "route" : "Q113",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q113",
+    "inService" : true
+  }, {
+    "route" : "X11",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X11",
+    "inService" : true
+  }, {
+    "route" : "Q114",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_Q114",
+    "inService" : true
+  }, {
+    "route" : "B52",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B52",
+    "inService" : true
+  }, {
+    "route" : "B9",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B9",
+    "inService" : true
+  }, {
+    "route" : "B57",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B57",
+    "inService" : true
+  }, {
+    "route" : "B6",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B6",
+    "inService" : true
+  }, {
+    "route" : "B8",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B8",
+    "inService" : true
+  }, {
+    "route" : "B7",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B7",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>B7 </b>- <b>Northbound stop on Thomas S Boyland St at Atlantic Av temporarily relocated</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until 8 AM Wednesday, May 30<br><br>Due to construction, please use the nearby temporary stop <b>on Thomas S Boyland St </b>near Atlantic Av.<br><b>                              [TP]<br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-04-30T00:00:00-0400",
+      "startDate" : "2018-04-30T00:00:00-0400",
+      "endDate" : "2018-05-30T23:59:00-0400"
+    } ]
+  }, {
+    "route" : "B54",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B54",
+    "inService" : true
+  }, {
+    "route" : "Q44-SBS",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q44+",
+    "inService" : true
+  }, {
+    "route" : "Q20A",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q20A",
+    "inService" : true
+  }, {
+    "route" : "M22",
+    "color" : "00AEEF",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M22",
+    "inService" : true
+  }, {
+    "route" : "X2",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X2",
+    "inService" : true
+  }, {
+    "route" : "X1",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X1",
+    "inService" : true
+  }, {
+    "route" : "X8",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X8",
+    "inService" : true
+  }, {
+    "route" : "X7",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X7",
+    "inService" : true
+  }, {
+    "route" : "M20",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M20",
+    "inService" : true
+  }, {
+    "route" : "X9",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X9",
+    "inService" : true
+  }, {
+    "route" : "M21",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M21",
+    "inService" : true
+  }, {
+    "route" : "X4",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X4",
+    "inService" : true
+  }, {
+    "route" : "X3",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X3",
+    "inService" : true
+  }, {
+    "route" : "Q20B",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q20B",
+    "inService" : true
+  }, {
+    "route" : "X5",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X5",
+    "inService" : true
+  }, {
+    "route" : "M15",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M15",
+    "inService" : true
+  }, {
+    "route" : "M11",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M11",
+    "inService" : true
+  }, {
+    "route" : "M12",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M12",
+    "inService" : true
+  }, {
+    "route" : "M10",
+    "color" : "006CB7",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M10",
+    "inService" : true
+  }, {
+    "route" : "Q88",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q88",
+    "inService" : true
+  }, {
+    "route" : "Q84",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q84",
+    "inService" : true
+  }, {
+    "route" : "Q85",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q85",
+    "inService" : true
+  }, {
+    "route" : "QM34",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM34",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>QM24, QM25 and QM34 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, Mon to Fri, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-10-06T00:00:00-0400",
+      "startDate" : "2017-10-06T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>QM24, QM25 and QM34 buses may experience delays<br>due to construction on Metropolitan Av at Fresh Pond Rd </b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>6 AM to 10 PM, Mon to Fri, until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-10-06T00:00:00-0400",
+      "startDate" : "2017-10-06T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "X68",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X68",
+    "inService" : true
+  }, {
+    "route" : "QM35",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM35",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "QM36",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM36",
+    "inService" : true
+  }, {
+    "route" : "X63",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X63",
+    "inService" : true
+  }, {
+    "route" : "X64",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_X64",
+    "inService" : true
+  }, {
+    "route" : "QM40",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM40",
+    "inService" : true
+  }, {
+    "route" : "M79-SBS",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_M79+",
+    "inService" : true
+  }, {
+    "route" : "QM42",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM42",
+    "inService" : true
+  }, {
+    "route" : "Q83",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q83",
+    "inService" : true
+  }, {
+    "route" : "Q77",
+    "color" : "FAA61A",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q77",
+    "inService" : true
+  }, {
+    "route" : "B44-SBS",
+    "color" : "B933AD",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_B44+",
+    "inService" : true
+  }, {
+    "route" : "Q76",
+    "color" : "6CBE45",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_Q76",
+    "inService" : true
+  }, {
+    "route" : "QM44",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM44",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q64, QM4 and QM44 buses may experience delays<br>due to construction on the Jewel Av exit of the Van Wyck Expy</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-09-21T00:00:00-0400",
+      "startDate" : "2017-09-21T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q64, QM4 and QM44 buses may experience delays<br>due to construction on the Jewel Av exit of the Van Wyck Expy</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-09-21T00:00:00-0400",
+      "startDate" : "2017-09-21T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "Bx41-SBS",
+    "color" : "EE352E",
+    "mode" : "bus",
+    "agency" : "MTA NYCT",
+    "routeId" : "MTA NYCT_BX41+",
+    "inService" : true
+  }, {
+    "route" : "QM8",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM8",
+    "inService" : true
+  }, {
+    "route" : "QM1",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM1",
+    "inService" : true
+  }, {
+    "route" : "QM3",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM3",
+    "inService" : true
+  }, {
+    "route" : "QM2",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM2",
+    "inService" : true
+  }, {
+    "route" : "QM5",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM5",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-03-30T00:00:00-0400",
+      "startDate" : "2017-03-30T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "QM4",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM4",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q64, QM4 and QM44 buses may experience delays<br>due to construction on the Jewel Av exit of the Van Wyck Expy</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2017-09-21T00:00:00-0400",
+      "startDate" : "2017-09-21T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Q64, QM4 and QM44 buses may experience delays<br>due to construction on the Jewel Av exit of the Van Wyck Expy</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b></b>Until further notice<br><b>          <br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2017-09-21T00:00:00-0400",
+      "startDate" : "2017-09-21T00:00:00-0400",
+      "endDate" : "2019-01-31T23:59:00-0500"
+    } ]
+  }, {
+    "route" : "QM7",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM7",
+    "inService" : true
+  }, {
+    "route" : "QM6",
+    "color" : "00933C",
+    "mode" : "bus",
+    "agency" : "MTABC",
+    "routeId" : "MTABC_QM6",
+    "inService" : true
+  }, {
+    "route" : "2",
+    "color" : "EE352E",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_2",
+    "routeSortOrder" : 2,
+    "inService" : true
+  }, {
+    "route" : "3",
+    "color" : "EE352E",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_3",
+    "routeSortOrder" : 3,
+    "inService" : true
+  }, {
+    "route" : "6X",
+    "color" : "00A65C",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_6X",
+    "routeSortOrder" : 8,
+    "inService" : true
+  }, {
+    "route" : "1",
+    "color" : "EE352E",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_1",
+    "routeSortOrder" : 1,
+    "inService" : true
+  }, {
+    "route" : "S",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_FS",
+    "routeSortOrder" : 26,
+    "inService" : true
+  }, {
+    "route" : "W",
+    "color" : "FCCC0A",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_W",
+    "routeSortOrder" : 25,
+    "inService" : true
+  }, {
+    "route" : "SIR",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_SI",
+    "routeSortOrder" : 29,
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>SCHEDULED MAINTENANCE | May 18,</b> <b>Friday, 9 AM to 3 PM<br>[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Clifton Stations</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b><br></b>&#x2022; Boarding change includes <b>Jefferson Av</b>, <b>Dongan Hills</b>, <b>Old Town</b>,<b> Grasmere </b>and <b>Clifton Stations</b>.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-07T00:00:00-0400",
+      "startDate" : "2018-05-07T00:00:00-0400",
+      "endDate" : "2018-05-18T23:59:00-0400"
+    } ]
+  }, {
+    "route" : "Z",
+    "color" : "996633",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_Z",
+    "routeSortOrder" : 20,
+    "inService" : true
+  }, {
+    "route" : "N",
+    "color" : "FCCC0A",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_N",
+    "routeSortOrder" : 22,
+    "inService" : true
+  }, {
+    "route" : "L",
+    "color" : "A7A9AC",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_L",
+    "routeSortOrder" : 21,
+    "inService" : true
+  }, {
+    "route" : "M",
+    "color" : "FF6319",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_M",
+    "routeSortOrder" : 17,
+    "inService" : true
+  }, {
+    "route" : "R",
+    "color" : "FCCC0A",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_R",
+    "routeSortOrder" : 24,
+    "inService" : true
+  }, {
+    "route" : "7X",
+    "color" : "B933AD",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_7X",
+    "routeSortOrder" : 10,
+    "inService" : true
+  }, {
+    "route" : "Q",
+    "color" : "FCCC0A",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_Q",
+    "routeSortOrder" : 23,
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Delays",
+      "statusDescription" : "[B] and [Q] train service has resumed following an earlier incident involving a train with mechanical problems at <strong>Prospect Park</strong>.",
+      "priority" : 2,
+      "direction" : "0",
+      "creationDate" : "2018-05-18T09:00:19-0400",
+      "startDate" : "2018-05-18T08:45:00-0400",
+      "endDate" : "2018-05-18T09:15:00-0400"
+    } ]
+  }, {
+    "route" : "F",
+    "color" : "FF6319",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_F",
+    "routeSortOrder" : 16,
+    "inService" : true
+  }, {
+    "route" : "G",
+    "color" : "6CBE45",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_G",
+    "routeSortOrder" : 18,
+    "inService" : true
+  }, {
+    "route" : "D",
+    "color" : "FF6319",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_D",
+    "routeSortOrder" : 15,
+    "inService" : true
+  }, {
+    "route" : "E",
+    "color" : "2850AD",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_E",
+    "routeSortOrder" : 13,
+    "inService" : true
+  }, {
+    "route" : "J",
+    "color" : "996633",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_J",
+    "routeSortOrder" : 19,
+    "inService" : true
+  }, {
+    "route" : "S",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_H",
+    "routeSortOrder" : 28,
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Rockaways Long-Term Flood Protection | Until Friday May 18, 2018<br>[S] No Rockaway Park Shuttle service at Broad Channel - Take the [A] instead<br>[A] No rush hour service to/from Rockaway Park-Beach 116 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b><br></b>[S] Rockaway Park Shuttle operates, approximately every 20 minutes, between <br><b>Rockaway Park-Beach 116 St</b> and <b>Beach 90 St</b> and via the [A] to/from <b>Far Rockaway-Mott Av</b>.<br><br>For <b>Broad Channel</b>, take the [A], transfer to the [S] Rockaway Park Shuttle at Beach 67 St.<br><br><b>Alternate travel note for Broad Channel:<br>Q52 </b>SBS, <b>Q53 </b>SBS, <b>QM16</b> and <b>QM17</b> service is also available at Cross Bay Blvd and Noel Rd.<br><br><a href=\"http://www.mta.info/press-release/nyc-transit/nyc-transit-starting-subway-flood-protection-project-rockaways-next-month\" target=\"_blank\">Click here</a> for additional details on this Flood Protection Project.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-04-09T00:00:00-0400",
+      "startDate" : "2018-04-09T00:00:00-0400",
+      "endDate" : "2018-05-18T23:59:00-0400"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Rockaways Long-Term Flood Protection | Until Friday May 18, 2018<br>[S] No Rockaway Park Shuttle service at Broad Channel - Take the [A] instead<br>[A] No rush hour service to/from Rockaway Park-Beach 116 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b><br></b>[S] Rockaway Park Shuttle operates, approximately every 20 minutes, between <br><b>Rockaway Park-Beach 116 St</b> and <b>Beach 90 St</b> and via the [A] to/from <b>Far Rockaway-Mott Av</b>.<br><br>For <b>Broad Channel</b>, take the [A], transfer to the [S] Rockaway Park Shuttle at Beach 67 St.<br><br><b>Alternate travel note for Broad Channel:<br>Q52 </b>SBS, <b>Q53 </b>SBS, <b>QM16</b> and <b>QM17</b> service is also available at Cross Bay Blvd and Noel Rd.<br><br><a href=\"http://www.mta.info/press-release/nyc-transit/nyc-transit-starting-subway-flood-protection-project-rockaways-next-month\" target=\"_blank\">Click here</a> for additional details on this Flood Protection Project.<br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-04-09T00:00:00-0400",
+      "startDate" : "2018-04-09T00:00:00-0400",
+      "endDate" : "2018-05-18T23:59:00-0400"
+    } ]
+  }, {
+    "route" : "S",
+    "color" : "6D6E71",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_GS",
+    "routeSortOrder" : 27,
+    "inService" : true
+  }, {
+    "route" : "B",
+    "color" : "FF6319",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_B",
+    "routeSortOrder" : 14,
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Delays",
+      "statusDescription" : "[B] and [Q] train service has resumed following an earlier incident involving a train with mechanical problems at <strong>Prospect Park</strong>.",
+      "priority" : 2,
+      "direction" : "0",
+      "creationDate" : "2018-05-18T09:00:19-0400",
+      "startDate" : "2018-05-18T08:45:00-0400",
+      "endDate" : "2018-05-18T09:15:00-0400"
+    } ]
+  }, {
+    "route" : "C",
+    "color" : "2850AD",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_C",
+    "routeSortOrder" : 12,
+    "inService" : true
+  }, {
+    "route" : "A",
+    "color" : "2850AD",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_A",
+    "routeSortOrder" : 11,
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Rockaways Long-Term Flood Protection | Until May 18, Mon to Fri, 6 AM to 10 AM &amp; 3:30 PM to 8 PM<br>No [A] service to/from Rockaway Park-Beach 116 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b><br></b>[A] trains that were scheduled to operate to/from Rockaway Park-Beach 116 St will operate to/from Euclid Av instead.<br><br>[S] No Rockaway Park Shuttle service at Broad Channel.<br><br>[S] Rockaway Park Shuttle operates, approximately every 20 minutes, between <b>Rockaway Park-Beach 116 St</b> and <b>Beach 90 St</b> and via the [A] to/from <b>Far Rockaway-Mott Av</b>.<br><br>For<b> Beach 90 St, Beach 98 St, Beach 105 St</b> and <b>Rockaway Park-Beach 116 St</b>, transfer to the [S] Rockaway Park Shuttle at Beach 67 St.<br><br><a href=\"http://www.mta.info/press-release/nyc-transit/nyc-transit-starting-subway-flood-protection-project-rockaways-next-month\" target=\"_blank\">Click here</a> for additional details on this Flood Protection Project.<br><br><table class=\"plannedworkTableStyle\"><tr><td>  [ad]  </td><td>This service change affects one or more ADA accessible stations. Please call 511 for help with planning your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  </td></tr></table><br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-04-09T00:00:00-0400",
+      "startDate" : "2018-04-09T00:00:00-0400",
+      "endDate" : "2018-05-18T23:59:00-0400"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>Rockaways Long-Term Flood Protection | Until May 18, Mon to Fri, 6 AM to 10 AM &amp; 3:30 PM to 8 PM<br>No [A] service to/from Rockaway Park-Beach 116 St</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b><br></b>[A] trains that were scheduled to operate to/from Rockaway Park-Beach 116 St will operate to/from Euclid Av instead.<br><br>[S] No Rockaway Park Shuttle service at Broad Channel.<br><br>[S] Rockaway Park Shuttle operates, approximately every 20 minutes, between <b>Rockaway Park-Beach 116 St</b> and <b>Beach 90 St</b> and via the [A] to/from <b>Far Rockaway-Mott Av</b>.<br><br>For<b> Beach 90 St, Beach 98 St, Beach 105 St</b> and <b>Rockaway Park-Beach 116 St</b>, transfer to the [S] Rockaway Park Shuttle at Beach 67 St.<br><br><a href=\"http://www.mta.info/press-release/nyc-transit/nyc-transit-starting-subway-flood-protection-project-rockaways-next-month\" target=\"_blank\">Click here</a> for additional details on this Flood Protection Project.<br><br><table class=\"plannedworkTableStyle\"><tr><td>  [ad]  </td><td>This service change affects one or more ADA accessible stations. Please call 511 for help with planning your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  </td></tr></table><br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-04-09T00:00:00-0400",
+      "startDate" : "2018-04-09T00:00:00-0400",
+      "endDate" : "2018-05-18T23:59:00-0400"
+    } ]
+  }, {
+    "route" : "6",
+    "color" : "00933C",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_6",
+    "routeSortOrder" : 7,
+    "inService" : true
+  }, {
+    "route" : "7",
+    "color" : "B933AD",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_7",
+    "routeSortOrder" : 9,
+    "inService" : true
+  }, {
+    "route" : "4",
+    "color" : "00933C",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_4",
+    "routeSortOrder" : 4,
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<a class=\"plannedWorkDetailLink\"><b>TRACK REPLACEMENT | May 18, Friday, 9:45 AM to 3:30 PM<br>Woodlawn-bound [4] trains run express from Burnside Av to Woodlawn in the Bronx</b></a><b><br><br></b><div class=\"plannedWorkDetail\"><b><br></b>No Woodlawn-bound service at <b>183 St</b>, <b>Fordham Rd</b>, <b>Kingsbridge Rd</b>, <b>Bedford Pk Blvd</b> and <b>Mosholu Pkwy</b>.<br>For service to these stations, take the [4]<b> </b>to Woodlawn and transfer to a Crown Hts-bound [4].<br><br>For service from these stations, take the [4] to Burnside Av and transfer to a Woodlawn-bound [4].<br><br><table class=\"plannedworkTableStyle\"><tr><td>  [ad]  </td><td>This service change affects one or more ADA accessible stations. Please call 511 for help with planning<br>your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  </td></tr></table><br><b><br></b></div><br>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-14T00:00:00-0400",
+      "startDate" : "2018-05-14T00:00:00-0400",
+      "endDate" : "2018-05-18T23:59:00-0400"
+    } ]
+  }, {
+    "route" : "5",
+    "color" : "00933C",
+    "mode" : "subway",
+    "agency" : "MTASBWY",
+    "routeId" : "MTASBWY_5",
+    "routeSortOrder" : 5,
+    "inService" : true
+  }, {
+    "route" : "Hudson",
+    "color" : "009B3A",
+    "mode" : "rail",
+    "agency" : "MNR",
+    "routeId" : "MNR_1",
+    "inService" : true
+  }, {
+    "route" : "New Haven",
+    "color" : "EE0034",
+    "mode" : "rail",
+    "agency" : "MNR",
+    "routeId" : "MNR_3",
+    "inService" : true
+  }, {
+    "route" : "Harlem",
+    "color" : "0039A6",
+    "mode" : "rail",
+    "agency" : "MNR",
+    "routeId" : "MNR_2",
+    "inService" : true
+  }, {
+    "route" : "Danbury",
+    "color" : "EE0034",
+    "mode" : "rail",
+    "agency" : "MNR",
+    "routeId" : "MNR_5",
+    "inService" : true
+  }, {
+    "route" : "New Canaan",
+    "color" : "EE0034",
+    "mode" : "rail",
+    "agency" : "MNR",
+    "routeId" : "MNR_4",
+    "inService" : true
+  }, {
+    "route" : "Waterbury",
+    "color" : "EE0034",
+    "mode" : "rail",
+    "agency" : "MNR",
+    "routeId" : "MNR_6",
+    "inService" : true
+  }, {
+    "route" : "Port Jefferson",
+    "color" : "0039A6",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_10",
+    "inService" : true
+  }, {
+    "route" : "Montauk",
+    "color" : "006983",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_5",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<p class=\"MsoNormal\"><b>Buses Replace Midday Weekday Trains between Patchogue &amp; Montauk thru May 18</b></p><p class=\"MsoNormal\">Starting Monday, February 26 through Friday, May 18, buses will replace midday&nbsp;off-peak trains between Montauk and Patchogue to accommodate&nbsp;state-of-good-repair tie replacement work. Service is affected as follows:</p><p class=\"MsoNormal\"><b>EASTBOUND</b></p><ul><li class=\"MsoNormal\">The 8:57 AM train from Babylon, scheduled to arrive Montauk at 10:57 AM, will terminate at Patchogue. Customers traveling to stations Bellport through Montauk will be accommodated by bus service.</li><li class=\"MsoNormal\">The 11:25 AM train from Jamaica, scheduled to arrive Montauk at 2:15 PM, will terminate at Patchogue. Customers traveling to stations Bellport through Montauk will be accommodated by bus service.</li><li class=\"MsoNormal\">The 11:27 AM train from Babylon scheduled to arrive at Speonk at 12:27 PM, will terminate at Patchogue. Customers traveling to stations Bellport through Speonk will be accommodated by bus service.</li></ul><p class=\"MsoNormal\"><b>WESTBOUND</b></p><ul><li class=\"MsoNormal\">The 11:18 AM train from Montauk, scheduled to arrive at Jamaica at 2:15 PM, will originate at Patchogue at 1:07 PM. Customers at stations Montauk through Patchogue will be accommodated by buses departing up to 1 hour and 5 minutes later than usual train times.</li><li class=\"MsoNormal\">The 2:00 PM train from Speonk, scheduled to arrive at Jamaica 3:36 PM, will originate at Patchogue at 2:30 PM. Customers at stations Montauk through Speonk will be accommodated by buses departing up to 1 hour and 5 minutes later than usual train times.</li><li class=\"MsoNormal\">The 2:51 PM train from Montauk, scheduled to arrive at Jamaica at 5:50 PM, will originate at Patchogue at 4:43 PM. Customers at stations Montauk through Patchogue will be accommodated by buses departing up to 1 hour and 5 minutes later than usual train times.</li></ul>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-05-14T14:57:16-0400",
+      "startDate" : "2018-05-18T07:00:00-0400",
+      "endDate" : "2018-05-18T17:00:00-0400"
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "<p class=\"MsoNormal\"><b>Buses Replace Midday Weekday Trains between Patchogue &amp; Montauk thru May 18</b></p><p class=\"MsoNormal\">Starting Monday, February 26 through Friday, May 18, buses will replace midday&nbsp;off-peak trains between Montauk and Patchogue to accommodate&nbsp;state-of-good-repair tie replacement work. Service is affected as follows:</p><p class=\"MsoNormal\"><b>EASTBOUND</b></p><ul><li class=\"MsoNormal\">The 8:57 AM train from Babylon, scheduled to arrive Montauk at 10:57 AM, will terminate at Patchogue. Customers traveling to stations Bellport through Montauk will be accommodated by bus service.</li><li class=\"MsoNormal\">The 11:25 AM train from Jamaica, scheduled to arrive Montauk at 2:15 PM, will terminate at Patchogue. Customers traveling to stations Bellport through Montauk will be accommodated by bus service.</li><li class=\"MsoNormal\">The 11:27 AM train from Babylon scheduled to arrive at Speonk at 12:27 PM, will terminate at Patchogue. Customers traveling to stations Bellport through Speonk will be accommodated by bus service.</li></ul><p class=\"MsoNormal\"><b>WESTBOUND</b></p><ul><li class=\"MsoNormal\">The 11:18 AM train from Montauk, scheduled to arrive at Jamaica at 2:15 PM, will originate at Patchogue at 1:07 PM. Customers at stations Montauk through Patchogue will be accommodated by buses departing up to 1 hour and 5 minutes later than usual train times.</li><li class=\"MsoNormal\">The 2:00 PM train from Speonk, scheduled to arrive at Jamaica 3:36 PM, will originate at Patchogue at 2:30 PM. Customers at stations Montauk through Speonk will be accommodated by buses departing up to 1 hour and 5 minutes later than usual train times.</li><li class=\"MsoNormal\">The 2:51 PM train from Montauk, scheduled to arrive at Jamaica at 5:50 PM, will originate at Patchogue at 4:43 PM. Customers at stations Montauk through Patchogue will be accommodated by buses departing up to 1 hour and 5 minutes later than usual train times.</li></ul>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-14T14:57:16-0400",
+      "startDate" : "2018-05-18T07:00:00-0400",
+      "endDate" : "2018-05-18T17:00:00-0400"
+    } ]
+  }, {
+    "route" : "Ronkonkoma",
+    "color" : "A626AA",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_4",
+    "inService" : true
+  }, {
+    "route" : "City Zone",
+    "color" : "4D5357",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_12",
+    "inService" : true
+  }, {
+    "route" : "Oyster Bay",
+    "color" : "00AF3F",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_3",
+    "inService" : true
+  }, {
+    "route" : "Belmont",
+    "color" : "FFFFFF",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_11",
+    "inService" : true
+  }, {
+    "route" : "Hempstead",
+    "color" : "CE8E00",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_2",
+    "inService" : true
+  }, {
+    "route" : "Port Washington",
+    "color" : "C60C30",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_9",
+    "inService" : true
+  }, {
+    "route" : "West Hempstead",
+    "color" : "00A1DE",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_8",
+    "inService" : true
+  }, {
+    "route" : "Far Rockaway",
+    "color" : "6E3219",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_7",
+    "inService" : true
+  }, {
+    "route" : "Long Beach",
+    "color" : "FF6319",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_6",
+    "inService" : true
+  }, {
+    "route" : "Babylon",
+    "color" : "00985F",
+    "mode" : "rail",
+    "agency" : "LI",
+    "routeId" : "LI_1",
+    "inService" : true
+  }, {
+    "route" : "Port Jervis",
+    "mode" : "rail",
+    "agency" : "NJT",
+    "routeId" : "NJT_6",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "Service Adjustments Required to Advance Positive Train Control (PTC) Equipment Installation.<div><br></div><div>Beginning Monday, June 4th, some weekday trains will be temporarily discontinue or will have changes to trip origin or destination.&nbsp; This will impact customers along the NEC, NJCL, M&amp;E and PVL.&nbsp; Other trains throughout the system will have adjustments to schedules and/or station stops.&nbsp; Visit njtransit. com for more information.</div>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-16T07:34:59-0400",
+      "startDate" : "2018-05-16T07:25:00-0400",
+      "endDate" : null
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "Service Adjustments Required to Advance Positive Train Control (PTC) Equipment Installation.<div><br></div><div>Beginning Monday, June 4th, some weekday trains will be temporarily discontinue or will have changes to trip origin or destination.&nbsp; This will impact customers along the NEC, NJCL, M&amp;E and PVL.&nbsp; Other trains throughout the system will have adjustments to schedules and/or station stops.&nbsp; Visit njtransit. com for more information.</div>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-05-16T07:34:59-0400",
+      "startDate" : "2018-05-16T07:25:00-0400",
+      "endDate" : null
+    } ]
+  }, {
+    "route" : "Pascack Valley",
+    "mode" : "rail",
+    "agency" : "NJT",
+    "routeId" : "NJT_13",
+    "inService" : true,
+    "statusDetails" : [ {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "Service Adjustments Required to Advance Positive Train Control (PTC) Equipment Installation.<div><br></div><div>Beginning Monday, June 4th, some weekday trains will be temporarily discontinue or will have changes to trip origin or destination.&nbsp; This will impact customers along the NEC, NJCL, M&amp;E and PVL.&nbsp; Other trains throughout the system will have adjustments to schedules and/or station stops.&nbsp; Visit njtransit. com for more information.</div>",
+      "priority" : 1,
+      "direction" : "0",
+      "creationDate" : "2018-05-16T07:34:59-0400",
+      "startDate" : "2018-05-16T07:25:00-0400",
+      "endDate" : null
+    }, {
+      "statusSummary" : "Planned Work",
+      "statusDescription" : "Service Adjustments Required to Advance Positive Train Control (PTC) Equipment Installation.<div><br></div><div>Beginning Monday, June 4th, some weekday trains will be temporarily discontinue or will have changes to trip origin or destination.&nbsp; This will impact customers along the NEC, NJCL, M&amp;E and PVL.&nbsp; Other trains throughout the system will have adjustments to schedules and/or station stops.&nbsp; Visit njtransit. com for more information.</div>",
+      "priority" : 1,
+      "direction" : "1",
+      "creationDate" : "2018-05-16T07:34:59-0400",
+      "startDate" : "2018-05-16T07:25:00-0400",
+      "endDate" : null
+    } ]
+  } ]
+}

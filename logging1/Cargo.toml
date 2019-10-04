@@ -1,0 +1,26 @@
+[package]
+name = "logging1"
+version = "0.1.0"
+authors = ["Paul Lysak <paul.lysak@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "lib"
+#path = "src/lib.rs"
+
+[[bin]]
+name = "transport1"
+path = "src/transport1.rs"
+
+[[bin]]
+name = "transport2"
+path = "src/transport2.rs"
+
+[dependencies]
+log = "0.4"
+pretty_env_logger = "0.3"
+fern = "0.5.8"
+chrono = "0.4.9"
+
