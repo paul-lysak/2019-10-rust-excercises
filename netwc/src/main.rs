@@ -1,7 +1,10 @@
 use std::sync::{Arc, Mutex};
 use std::io::prelude::*;
-use std::net::TcpStream;
-use std::net::TcpListener;
+use tokio::prelude::*;
+use tokio::net::TcpStream;
+use tokio::net::TcpListener;
+use std::net::SocketAddr;
+use tokio::prelude::future::ok;
 
 #[derive(Debug, Default)]
 struct Counts {
@@ -48,27 +51,36 @@ fn handle_connection(stream: TcpStream) -> Counts {
 }
 
 fn main() {
-    let pool = rayon::ThreadPoolBuilder::new().num_threads(22).build().unwrap();
+//    let pool = rayon::ThreadPoolBuilder::new().num_threads(22).build().unwrap();
 
     let global_counts = Arc::new(Mutex::new(Counts::default()));
-//    let gcRef = &mut globalCounts;
 
-    let listener = TcpListener::bind("127.0.0.1:9000").unwrap();
-    pool.install(|| {
-        for stream in listener.incoming() {
-            let stream = stream.unwrap();
-            println!("connection established");
-            let gcc = global_counts.clone();
-            pool.spawn(move || {
-                let con_counts = handle_connection(stream);
-//                globalCounts = globalCounts.add(conCounts);
-                {
-                    let mut gc = gcc.lock().unwrap();
-                    *gc = gc.add(con_counts);
-//                *gcRef = gcRef.add(conCounts);
-                    println!("global counts: {:?}", gc);
-                }
-            });
-        }
-    })
+    let addr = "127.0.0.1:9000".parse::<SocketAddr>().unwrap();
+    let listener = TcpListener::bind(&addr).unwrap();
+
+    let server = listener.incoming()
+        .map_err(|e| eprintln!("Failed to accept: {}", e))
+        .for_each(|socket| {
+            println!("Connection from {}", socket.peer_addr().unwrap());
+//            tokio::spawn()
+            ok(())
+        });
+
+    tokio::run(server);
+    
+//    pool.install(|| {
+//        for stream in listener.incoming() {
+//            let stream = stream.unwrap();
+//            println!("connection established");
+//            let gcc = global_counts.clone();
+//            pool.spawn(move || {
+//                let con_counts = handle_connection(stream);
+//                {
+//                    let mut gc = gcc.lock().unwrap();
+//                    *gc = gc.add(con_counts);
+//                    println!("global counts: {:?}", gc);
+//                }
+//            });
+//        }
+//    })
 }
