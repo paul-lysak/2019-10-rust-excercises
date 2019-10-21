@@ -1,10 +1,9 @@
 use std::sync::{Arc, Mutex};
-use std::io::prelude::*;
 use tokio::prelude::*;
 use tokio::net::TcpStream;
 use tokio::net::TcpListener;
 use std::net::SocketAddr;
-use tokio::prelude::future::ok;
+use tokio::codec::{BytesCodec, Decoder};
 
 #[derive(Debug, Default)]
 struct Counts {
@@ -24,35 +23,40 @@ impl Counts {
 }
 
 
-fn handle_connection(stream: TcpStream) -> Counts {
-    let mut lines = 0;
-    let mut words = 0;
-    let mut bytes = 0;
+fn handle_connection(stream: TcpStream) -> Box<Future<Item=Counts, Error=()> + Send> {
+    eprintln!("Connection from {}", stream.peer_addr().unwrap());
+    let lines = Arc::new(Mutex::new(0));
+    let words = Arc::new(Mutex::new(0));
+    let bytes_count = Arc::new(Mutex::new(0));
 
     let mut in_word = false;
 
-    stream.bytes().for_each(|byte_result| {
-        let byte = byte_result.unwrap();
-        if !byte.is_ascii_whitespace() && !in_word {
-            in_word = true;
-            words += 1;
-        }
-        if byte.is_ascii_whitespace() {
-            in_word = false;
-        }
-        if byte == b'\n' {
-            lines += 1;
-        }
-        bytes += 1;
+    let lines_mutator = lines.clone();
+    let words_mutator = words.clone();
+    let bytes_count_mutator = bytes_count.clone();
+    let data_handler = BytesCodec::new().framed(stream).for_each(move |bytes| {
+        bytes.iter().for_each(|byte| {
+            if !byte.is_ascii_whitespace() && !in_word {
+                in_word = true;
+                *words_mutator.lock().unwrap() += 1;
+            }
+            if byte.is_ascii_whitespace() {
+                in_word = false;
+            }
+            if *byte == b'\n' {
+                *lines_mutator.lock().unwrap() += 1;
+            }
+            *bytes_count_mutator.lock().unwrap() += 1;
+        });
+        Ok(())
+    }).then(move |_result| {
+        Ok(Counts { lines: *lines.lock().unwrap(), words: *words.lock().unwrap(), bytes: *bytes_count.lock().unwrap() })
     });
-    let c = Counts { lines: lines, words: words, bytes: bytes };
-    println!("connection counts: {:?}", c);
-    c
+
+    Box::new(data_handler)
 }
 
 fn main() {
-//    let pool = rayon::ThreadPoolBuilder::new().num_threads(22).build().unwrap();
-
     let global_counts = Arc::new(Mutex::new(Counts::default()));
 
     let addr = "127.0.0.1:9000".parse::<SocketAddr>().unwrap();
@@ -60,27 +64,15 @@ fn main() {
 
     let server = listener.incoming()
         .map_err(|e| eprintln!("Failed to accept: {}", e))
-        .for_each(|socket| {
-            println!("Connection from {}", socket.peer_addr().unwrap());
-//            tokio::spawn()
-            ok(())
+        .for_each(move |socket| {
+            let gcc = Arc::clone(&global_counts);
+            tokio::spawn(handle_connection(socket).and_then(move |counts| {
+                let mut gc = gcc.lock().unwrap();
+                *gc = gc.add(counts);
+                println!("global counts: {:?}", gc);
+                Ok(())
+            }))
         });
 
     tokio::run(server);
-    
-//    pool.install(|| {
-//        for stream in listener.incoming() {
-//            let stream = stream.unwrap();
-//            println!("connection established");
-//            let gcc = global_counts.clone();
-//            pool.spawn(move || {
-//                let con_counts = handle_connection(stream);
-//                {
-//                    let mut gc = gcc.lock().unwrap();
-//                    *gc = gc.add(con_counts);
-//                    println!("global counts: {:?}", gc);
-//                }
-//            });
-//        }
-//    })
 }
