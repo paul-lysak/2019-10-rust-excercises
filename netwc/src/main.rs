@@ -23,7 +23,7 @@ impl Counts {
 }
 
 
-fn handle_connection(stream: TcpStream) -> Box<Future<Item=Counts, Error=()> + Send> {
+fn handle_connection(stream: TcpStream) -> impl Future<Item=Counts, Error=()>  {
     eprintln!("Connection from {}", stream.peer_addr().unwrap());
     let lines = Arc::new(Mutex::new(0));
     let words = Arc::new(Mutex::new(0));
@@ -53,7 +53,7 @@ fn handle_connection(stream: TcpStream) -> Box<Future<Item=Counts, Error=()> + S
         Ok(Counts { lines: *lines.lock().unwrap(), words: *words.lock().unwrap(), bytes: *bytes_count.lock().unwrap() })
     });
 
-    Box::new(data_handler)
+    data_handler
 }
 
 fn main() {
